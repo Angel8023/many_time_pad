@@ -30,7 +30,3 @@ https://docs.python.org/3/library/stdtypes.html#string-methods
 https://docs.python.org/3/library/functions.html#func-range
 https://docs.python.org/3/library/functions.html#enumerate
 https://docs.python.org/3/reference/expressions.html#binary-bitwise-operations
-
-## Authors
-
-* **Gianluca Gambari** - *Università degli studi di Genova*
