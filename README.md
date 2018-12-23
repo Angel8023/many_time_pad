@@ -13,7 +13,7 @@ This is what this code does. Given some ciphertexts in input, that you find insi
 To download my repo:
 
 ```
-git clone https://github.com/riki95/Many-Time-Pad-Cracker
+git clone https://github.com/jjcomline/many_time_pad
 ```
 
 Then just run the cracker.py with a ciphertext.txt file with some chipertext in it. You will find the decoded message on the terminal but you can also export it into a txt output file.
